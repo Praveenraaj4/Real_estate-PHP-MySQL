@@ -11,5 +11,5 @@
 
 ## Admin Demo
 
-[![Watch the video](https://drive.google.com/file/d/1HwpbOLqoRehUrgGdc8b9FldhbnJonD3p/view?usp=sharing)
-[https://drive.google.com/file/d/1HwpbOLqoRehUrgGdc8b9FldhbnJonD3p/view?usp=sharing](url)
+
+
