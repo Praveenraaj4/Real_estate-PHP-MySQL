@@ -2,16 +2,19 @@
  Real estate management php project
 
 ## Demo
-[![Watch the video]
-(https://raw.githubusercontent.com/Praveenraaj4/Real_estate-PHP-MySQL/main/videos/User.png]
-(https://raw.githubusercontent.com/Praveenraaj4/Real_estate-PHP-MySQL/main/videos/Uservideo.mp4)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MIL3GZHsa_s/0.jpg)](https://www.youtube.com/watch?v=MIL3GZHsa_s)
+https://youtu.be/MIL3GZHsa_s
 
 ## Mysql Databases
 
-
+https://youtu.be/54MWcBRqCWk
 
 ## Admin Demo
 
 
+https://youtu.be/R9WnBgeY8Hk
 
+
+
+
+https://youtu.be/MIL3GZHsa_s
