@@ -1,5 +1,5 @@
 # Real estate management php
- Real estate management php project
+ Learned to convert an HTML website into fully Dynamic website using PHP language and Mysql as database. Used Xampp client to locally host the project.
 
 ## Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MIL3GZHsa_s/0.jpg)](https://www.youtube.com/watch?v=MIL3GZHsa_s)
